@@ -20,7 +20,11 @@
 
     docker pull confluentinc/cp-kafka:latest
 
-### Pour lancer notre exemple :
+### Pour lancer notre exemple : Attention, ici il faut lancer  : 
+
+    bash /workspace/Kafka/scripts/start.sh 
+    
+###  Au lieu de la commande habituelle : 
 
     docker compose up -d 
     
