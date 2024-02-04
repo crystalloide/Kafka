@@ -14,7 +14,9 @@
 
 ### Pour récupérer la dernière version de l'image mongoDB disponible dans Docker Hub : 
 
-####  https://hub.docker.com/search?q=confluentinc%2Fcp-kafka
+#### [ https://hub.docker.com/search?q=confluentinc%2Fcp-kafka](https://hub.docker.com/r/confluentinc/cp-kafka)
+#### [ https://hub.docker.com/search?q=confluentinc](https://hub.docker.com/r/confluentinc/cp-kafka)
+
 
 #### https://github.com/confluentinc/cp-demo
 
