@@ -21,6 +21,9 @@
 
     docker pull confluentinc/cp-kafka:latest
 
+
+    sudo chmod 777 -Rf /workspace/Kafka/
+
 ### Pour lancer notre exemple : Attention, ici il faut lancer  : 
 
     bash /workspace/Kafka/scripts/start.sh 
