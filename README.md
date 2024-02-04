@@ -1,22 +1,25 @@
-# MongoDB : installation, lancement, puis utilisation dans gitpod
+# Kafka : installation, lancement, puis utilisation dans gitpod
 
-## Rappel : nous sommes ici : https://github.com/crystalloide/mongoDB
+## Rappel : nous sommes ici : https://github.com/crystalloide/Kafka
 
 ## Pour ouvrir un environnement Gitpod en ligne avec un simple navigateur web : 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/crystalloide/mongoDB)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/crystalloide/Kafka)
 
 ## Pour vérifier - si nécessaire - si des workspaces sont déjà utilisés dans Gitpod :
 
 ## https://gitpod.io/workspaces
 
-# 1ère façon d'utiliser MongoDB : via docker : 
-
-## Pour aller plus loin : https://www.mongodb.com/docs/manual/tutorial/install-mongodb-enterprise-with-docker/
+# 1ère façon d'utiliser Kafka : via docker : 
 
 ### Pour récupérer la dernière version de l'image mongoDB disponible dans Docker Hub : 
 
-    docker pull mongodb/mongodb-enterprise-server:latest
+####  https://hub.docker.com/search?q=confluentinc%2Fcp-kafka
+
+#### https://github.com/confluentinc/cp-demo
+
+
+    docker pull confluentinc/cp-kafka:latest
 
 ### Pour lancer un conteneur à partir de l'image précédente dans Docker Hub :
 
