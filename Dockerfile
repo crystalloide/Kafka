@@ -13,8 +13,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-ARG REPOSITORY=confluentinc
-ARG CP_VERSION=7.5.3
+ARG REPOSITORY=
+ARG CP_VERSION=
+
+# ARG REPOSITORY=confluentinc
+# ARG CP_VERSION=7.5.3
 
 # Stage 1 -- install connectors
 FROM $REPOSITORY/cp-server-connect:$CP_VERSION AS install-connectors
