@@ -16,7 +16,7 @@
 
 #### [ https://hub.docker.com/search?q=confluentinc%2Fcp-kafka](https://hub.docker.com/r/confluentinc/cp-kafka)
 #### [ https://hub.docker.com/search?q=confluentinc](https://hub.docker.com/r/confluentinc/cp-kafka)
-#### [_https://github.com/confluentinc/cp-demo](https://github.com/confluentinc/cp-demo)
+#### [ https://github.com/confluentinc/cp-demo](https://github.com/confluentinc/cp-demo)
 
 
     docker pull confluentinc/cp-kafka:latest
