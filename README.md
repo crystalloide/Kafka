@@ -35,6 +35,12 @@
 
 ## Pour arrêter l'instance lancée : 
 
+### Pour lancer notre exemple : Attention, ici il faut lancer  : 
+
+    bash /workspace/Kafka/scripts/stop.sh 
+    
+###  Au lieu de la commande habituelle : 
+
     docker compose down
 
 # Fin du TP
