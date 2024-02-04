@@ -37,9 +37,11 @@
     docker ps -a
 
 
-## Pour profiter de l'envrionnement instancié, avec un navigateur web (adapter l'URL selon votre cas) : 
+## Pour profiter de l'envrionnement instancié avec un navigateur web (adapter les URLs selon votre cas) : 
 
-https://9021-crystalloide-kafka-zlukglrcx42.ws-eu108.gitpod.io/login
+### Pour aller sur l'interface Conflunt Control Center (adapter l'URL selon votre cas)  : 
+
+    https://9021-crystalloide-kafka-zlukglrcx42.ws-eu108.gitpod.io/login
 
 Login :
 
@@ -48,6 +50,10 @@ Login :
 Mot de passe :
 
     superUser
+
+### Pour aller sur l'interface Elastic (adapter l'URL selon votre cas) : 
+
+    https://crystalloide-kafka-zlukglrcx42.ws-eu108.gitpod.io/
     
 
 ## Pour arrêter l'instance lancée : 
