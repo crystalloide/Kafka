@@ -25,8 +25,6 @@
 
     docker compose up -d 
     
-##     run --name mongodb -p 27017:27017 -d mongodb/mongodb-enterprise-server:latest
-
 ## Pour voir les conteneurs lancés :
 
     docker ps -a
