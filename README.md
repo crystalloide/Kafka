@@ -36,6 +36,20 @@
 
     docker ps -a
 
+
+## Pour profiter de l'envrionnement instancié, avec un navigateur web (adapter l'URL selon votre cas) : 
+
+https://9021-crystalloide-kafka-zlukglrcx42.ws-eu108.gitpod.io/login
+
+Login :
+
+    superUser
+
+Mot de passe :
+
+    superUser
+    
+
 ## Pour arrêter l'instance lancée : 
 
 ### Pour lancer notre exemple : Attention, ici il faut lancer  : 
