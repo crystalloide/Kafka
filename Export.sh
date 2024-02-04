@@ -1,3 +1,4 @@
+#!/bin/bash
 export CONFLUENT=7.5.1
 export CONFLUENT_DOCKER_TAG=7.5.1
 export CONFLUENT_SHORT=7.5
