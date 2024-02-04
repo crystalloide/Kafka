@@ -21,6 +21,7 @@
 
     docker pull confluentinc/cp-kafka:latest
 
+### IMPORTANT à faire dans notre environnement : 
 
     sudo chmod 777 -Rf /workspace/Kafka/
 
