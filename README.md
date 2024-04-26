@@ -12,7 +12,7 @@
 
 # 1ère façon d'utiliser Kafka : via docker : 
 
-### Pour récupérer la dernière version de l'image mongoDB disponible dans Docker Hub : 
+### Pour récupérer la dernière version de l'image kafka disponible dans Docker Hub : 
 
 #### [ https://hub.docker.com/search?q=confluentinc%2Fcp-kafka](https://hub.docker.com/r/confluentinc/cp-kafka)
 #### [ https://hub.docker.com/search?q=confluentinc](https://hub.docker.com/r/confluentinc/cp-kafka)
