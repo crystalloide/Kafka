@@ -38,7 +38,7 @@
     docker ps -a
 
 
-## Pour profiter de l'envrionnement instancié avec un navigateur web (adapter les URLs selon votre cas) : 
+## Pour profiter de l'environnement instancié avec un navigateur web (adapter les URLs selon votre cas) : 
 
 ### Pour aller sur l'interface Conflunt Control Center (adapter l'URL selon votre cas)  : 
 
